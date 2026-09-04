@@ -1,0 +1,4 @@
+1. Reemplaza index.html en el repositorio.
+2. Copia students_index.json dentro de la carpeta data existente.
+3. No elimines teachers.json ni la carpeta students.
+4. Commit to main, Push origin y luego Ctrl+F5.
